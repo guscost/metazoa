@@ -1,0 +1,19 @@
+{
+  "name": "metazoa",
+  "version": "0.0.1",
+  "description": "a mini-app generator",
+  "main": "metazoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guscost/metazoa.git"
+  },
+  "author": "Gus Cost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guscost/metazoa/issues"
+  },
+  "homepage": "https://guscost.github.io/metazoa"
+}
