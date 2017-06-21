@@ -1,5 +1,5 @@
 /**
- * metazoa v0.1.0
+ * metazoa v0.1.1
  * MIT License
  * Copyright 2017 Gus Cost
  */
