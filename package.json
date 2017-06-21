@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guscost/metazoa/issues"
   },
-  "homepage": "https://guscost.github.io/metazoa"
+  "homepage": "https://guscost.github.io/metazoa",
+  "dependencies": {
+    "protozoa": "^1.5.0"
+  }
 }
