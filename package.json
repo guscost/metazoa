@@ -4,6 +4,7 @@
   "description": "a mini-app generator",
   "main": "metazoa.js",
   "scripts": {
+    "build": "node tsc.js index.tsx --jsx protozoa",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,6 @@
   },
   "homepage": "https://guscost.github.io/metazoa",
   "dependencies": {
-    "protozoa": "^1.5.0"
+    "protozoa": "^1.6.6"
   }
 }

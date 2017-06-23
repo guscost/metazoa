@@ -24,7 +24,11 @@
   };
 
   return function (tmpl) {
+
+    // Custom kernel
     tmpl.kernel = _kernel;
+
+    // Pass it on to Protozoa
     return protozoa(tmpl);
   }
 
