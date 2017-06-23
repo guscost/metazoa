@@ -4,7 +4,7 @@
   "description": "a mini-app generator",
   "main": "metazoa.js",
   "scripts": {
-    "build": "./node_modules/protozoa-tsx/bin/tsc index.tsx --jsx protozoa",
+    "build": "tsc index.tsx --jsx protozoa",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
