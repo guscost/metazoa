@@ -18,7 +18,7 @@
   },
   "homepage": "https://guscost.github.io/metazoa",
   "dependencies": {
-    "protozoa": "^1.6.6",
-    "protozoa-tsx": "^2.3.6"
+    "protozoa": "^1.9.2",
+    "protozoa-tsx": "^1.1.0"
   }
 }
